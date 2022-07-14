@@ -1,0 +1,71 @@
+Validating or Invalidating Hypothesis 
+
+generating stories from data 
+
+Unstructered and Structured data
+
+Useful analysis help understand current enviroments
+
+Knowledge value = focus on a specific problem
+
+CLARIFY the question -> data science modeling(what data, where it will come from)
+- > structured_data(modeling of data analysis + multiple models to reveal patterns or outliers)
+
+- > unstructured data = NOT in a relational database where equations or analysis can be made.
+
+New knowledge or affirming beliefs
+
+Data visualizational tools help convey a message about findings
+
+Pre-judgment is not bad, we need pre-concieved notions in order to have a starting point. 
+
+Learning process > being right all the time.
+
+"analyze and interpret this information......transforming it from raw numerical (or other) data into actionable insights"
+
+Supervised (LABLED) VS Unsupervised Learning (UNLABLED)
+
+Supervised Learning = (using labeled inputs and outputs  + data + Classification OR Regression)
+Regression helps understand statistical (maybe enviromental) relationships dependent variables and independent variables 
+Linear regression, logistic regression and polynomial regression.
+Artificial neuro-networks to predict when an event will occur
+-   Machine learning (pandas + numpy + matplotlib) 
+jupyter always looks nice when working with data structuring or any coding of data
+
+
+Unsupervised Learning = 
+Machine learning to look at what is essentially unlabeled or unsorted data. (no paring to data set, no labeling of inputs)
+Clustering is data mining technique for grouping by similarity or granularity (same as similary but in a deeper technical 
+level)
+NOT MEANT FOR ACCURACY ( DO NOT MEASURE FOR ACCURACY IN UNSUPERVISED)
+Models are unlabled datasets.
+Create a type of structured mapping from given inputs to particular outputs
+
+Clustering Algorithms 
+plots groupings of similarity together from given data points, it tells a story 
+Autoencoders like Keras use Nueral Networks modeling to learn  
+
+
+finding patterns for predictive analysis and modeling for future conditions 
+
+like revenue streams by month to month of products and cost based analysis of equipment or predicting outcomes by enviromental conditions 
+for example complaints and geographical weather
+
+Case Studies need a lot of data in order to best implement solutions 
+
+Measurments for modeling equations in algorthims
+
+Identify the problem, establish clear understanding 
+gather data (structured or not)
+Idenitfy Tools or Approach
+Data Strategy- > modeling algorithm or how-to-in-extraction of data outputs
+
+Excel data is Structured Data!!!! (rows and columns)!!!!!
+
+Unstructured data is usaully audio or video, web data scapes, web log, web pages.
+
+
+A regression line is a straight line that describes how a response variable y
+changes as an explanatory variable x changes
+
+predict the value of y for a given value of x.
